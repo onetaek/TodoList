@@ -29,7 +29,7 @@ video { width:100%; position:absolute;object-fit:cover;}
 #todo-list button { color: white; outline:none; border:none; background:none;
   cursor:pointer; }
 #quote { margin: 0 auto; position:fixed; transform:translate(-50%,-50%);
-  color:white; top:700px;left:50%;}
+  color:white; top:680px;left:50%;}
 #quote :first-child { display:inline-block; text-align: center; width: 100%; }
 #quote :last-child { display:inline-block; text-align: center; width: 100%; }
 #weather { position: fixed; top:5px; right:10px; color:white;
