@@ -4,6 +4,8 @@
 
 ## 노마드 코더의 바닐라 JS 챌린지
 <img src="https://user-images.githubusercontent.com/86419261/235374853-0c68d378-4715-4213-a237-a5c77867bd89.png" width="640"/>
+
+
 ##### 2주간 진행되는 노마드 코드의 바닐라 JS챌리지를 진행하며 진행한 프로젝트로 ToDoList를 구현하였습니다.
 
 ## 프로젝트 기능
