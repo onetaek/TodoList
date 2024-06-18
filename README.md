@@ -1,5 +1,6 @@
 # ToDoList
-### [ToDoList보러가기](https://onetaek.github.io/ToDoList/)
+### [ToDoList보러가기](https://onetaek.github.io/to-do-list-project/)
+
 <img src="https://user-images.githubusercontent.com/86419261/235374966-1e62ac4f-7baf-474c-8f52-2f844e091ea0.png" width="640"/></br>
 
 ## 노마드 코더의 바닐라 JS 챌린지
